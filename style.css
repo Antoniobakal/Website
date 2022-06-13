@@ -54,6 +54,7 @@ a:hover{
 #main{
     background-image: url(/Images/R.jpg);
     background-position: bottom;
+    font-size: larger;
     color: #fff;
     float: left;
     width: 70%;
@@ -85,9 +86,13 @@ a:hover{
     height: 50px;
     border: 2pxs solid black;
 }
+.box ul{
+justify-content: center;
+flex-direction: row;
+}
 .fix-me{
     position:fixed;
-    top: 40px;
+    top: 50px;
     color: aqua;
     text-decoration: none;
 }

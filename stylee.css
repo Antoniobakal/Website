@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    border: 2px solid lawngreen;
+    padding: 24px 24px 0px 24px;
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
+    padding: 30px;
+}
+.small-box{
+    border: 4px solid lawngreen;
+    height: 100px;
+    margin-bottom: 24px;
+}
+.box-wrapper{
+    width: 45%;
+}
+.box{
+    border: 2px solid lawngreen;
+    width: 45%;
+    margin-bottom: 24px;
+}

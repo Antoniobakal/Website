@@ -41,3 +41,7 @@
     height: 86%;
     margin: 30px 30px 0px 50px;
 }
+
+.box{
+    border: 2px solid black;
+}
